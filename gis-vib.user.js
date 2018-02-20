@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Google Search "View Image" Button
-// @name:ru         Google Search кнопка "Показать в полном размере"
+// @name:ru         Google Search кнопка "test Показать в полном размере"
 // @name:sl         Gumb "Ogled slike" na Google Slikah
 // @name:lt         Google paieškos mygtukas "Rodyti vaizdą"
 // @namespace       https://github.com/devunt/make-gis-great-again
