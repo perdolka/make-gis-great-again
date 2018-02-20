@@ -6,7 +6,7 @@
 // @namespace       https://github.com/devunt/make-gis-great-again
 // @downloadURL     https://github.com/perdolka/make-gis-great-again/raw/master/gis-vib.user.js
 // @updateURL       https://github.com/perdolka/make-gis-great-again/raw/master/gis-vib.user.js
-// @version         1.3
+// @version         1.4
 // @icon            https://raw.githubusercontent.com/perdolka/make-gis-great-again/master/icons/icon%40chrome.png
 // @description     This userscript adds "View Image" button to Google Image Search results.
 // @description:ru  Этот скрипт добавляет кнопку "Показать в полном размере" к результатам Google Image Search.
