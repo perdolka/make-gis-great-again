@@ -5,6 +5,7 @@
 // @name:lt         Google paieškos mygtukas "Rodyti vaizdą"
 // @namespace       https://github.com/devunt/make-gis-great-again
 // @version         1.3
+// @icon            https://raw.githubusercontent.com/perdolka/make-gis-great-again/master/icons/icon.svg
 // @description     This userscript adds "View Image" button to Google Image Search results.
 // @description:ru  Этот скрипт добавляет кнопку "Показать в полном размере" к результатам Google Image Search.
 // @description:sl  Ponovno prikaže gumb "Ogled slike" na Google Slikah.
